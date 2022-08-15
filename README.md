@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2004<br>📚 I'm currently learning how to behave.<br>🎯 Goals: Have fun, meet great people, and create lovely software solutions<br>🎲 Fun fact: I love music and singing. I play guitar, bass, and the triangle :D</p>
+<p align="left">✨ Creating bugs since 2004<br>📚 I'm currently learning how to behave.<br>🎯 Goals: Have fun, meet great people, and create lovely software solutions<br>🎲 Fun fact: I love music and singing. I play the guitar, bass, and the triangle :D</p>
 
 ###
 
